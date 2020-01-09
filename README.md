@@ -1,11 +1,5 @@
 # egg-rate-limiter-flexible
 
-[![NPM version][npm-image]][npm-url]
-[![npm download][download-image]][download-url]
-
-[npm-url]: https://npmjs.org/package/egg-rate-limiter-flexible
-[download-url]: https://npmjs.org/package/egg-rate-limiter-flexible
-
 - 基于rate-limiter-flexible，采用mongodb的流量控制
 - 支持egg [js] 
 - 支持Controller控制器内分别配置请求速率限制
